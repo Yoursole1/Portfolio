@@ -1,8 +1,8 @@
-##Hello World! (and a little about me)
+##Hello World! (and a little about me)##
 
 I am a developing developer that lives in Washington State in the US!  I originally got into computer science as a way to experiment more with my passion for math, which is still my absolute favorite thing to do!  I also love piano, and love composing music for my family and friends :D
 
-##My Projects
+##My Projects##
 
 *For many of these the code is still private but the results are public.  I am also working on some other cool projects that can't be here quite yet ):*
 
