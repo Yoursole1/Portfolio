@@ -9,6 +9,8 @@ I am a developing developer that lives in Washington State in the US!  I origina
 
 One perspective: https://www.twitch.tv/videos/1609508098?filter=archives&sort=time
 
+This project was a multi-month contract from Twitch to create an event that would go live in sync with the new Lord of the Rings series on Amazon.  DotWav created the event from the ground up, and even invented a new way to do parkour - the controllable platforms.  I made the original prototype, then another developer joined the team and finished it.  While I can't share how it worked specifically, there was a lot of NMS practice I got while working on it, as well as some game development techniques that aren't usually used in Minecraft, such as smooth collision with moving objects. 
+
 I had a fairly central role in this project.  I created the PVE Games and systems.  This involved multiple custom mob AI which included custom pathfinding for one. I also made the serverwide NPC system, which was used by all minigames in the event.  Making the NPC system taught me a lot more about NMS development, and was super fun. I also created the raycasting system for the platform and chains games.
 
 **Twitch Rivals Event** (With DotWavPresents - https://twitter.com/dotwavpresents?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
