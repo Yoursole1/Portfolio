@@ -46,3 +46,7 @@ This was a simple plugin asked for by tert (https://www.youtube.com/c/Turtilz) f
 **Guild SMP Plugin** (https://github.com/Yoursole1/QuackingSMPPlugin)
 
 This was a plugin that was lots of QOL changes for my guild's SMP, as well as a chat linked between the discord and the server.  My favorite features from this project were a graph you could view in discord that shows the top ten blocks broken on the server.  It also included an account verification system that allows server OPs to access there permissions from the discord to moderate.  This plugin is actually still in use on the server and hasn't needed a bug fix or update for months.  I think this might be the longest running project without restarting I have ever made. 
+
+**Other Projects!**
+
+If they aren't here, they are either too small or already pinned on my profile.  Thanks for reading!
