@@ -2,17 +2,24 @@
 
 I am a developing developer that lives in Washington State in the US!  I originally got into computer science as a way to experiment more with my passion for math, which is still my absolute favorite thing to do!  I also love piano, and love composing music for my family and friends :D
 
-## My Big Projects
+## Portfolio
+*For many of these the code is still private but the results are public.  I am also working on some other cool projects that can't be here quite yet ):*
 
-**Twitch Rivals Event**
+**Lord of the Rings Experience** (With DotWavPresents, for Twitch)
 
+One perspective: https://www.twitch.tv/videos/1609508098?filter=archives&sort=time
 
+I had a fairly central role in this project.  I created the PVE Games and systems.  This involved multiple custom mob AI which included custom pathfinding for one. I also made the serverwide NPC system, which was used by all minigames in the event.  Making the NPC system taught me a lot more about NMS development, and was super fun. I also created the raycasting system for the platform and chains games.
 
-**RoverLink**
+**Twitch Rivals Event** (With DotWavPresents - https://twitter.com/dotwavpresents?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+
+I created the system for the parkour minigames in the RingCraft event.  For this project I also worked a lot on my time management because we had only 3 weeks to create the event.
+
+**RoverLink** (https://github.com/Yoursole1/RoverLink)
+
+I made this as a passion project that schools with low budgets could use as a way to learn about robotics.  It includes a custom server that runs on the rover and reads packets that control the movement, as well as an API that is run on the controlling computer.  This is still a work in progress but is functional at the moment. 
 
 ## My Small Projects (Not all chronological)
-
-*For many of these the code is still private but the results are public.  I am also working on some other cool projects that can't be here quite yet ):*
 
 **Capture the Flag** (https://github.com/Yoursole1/CTF)
 *Little note that this is not the original repository because it was remade when the plugin was rewritten in Kotlin)
@@ -22,6 +29,7 @@ I started this project as my first real minecraft minigame.  It was also my firs
 - Getting in a boat and going in circles forever
 - Digging underground and mining while placing cobblestone behind themselves (which takes longer to mine so they always got away)
 - Simply hiding somewhere
+
 All of these were fixed in ways that integrated well into the game.  
 The towering issue was fixed by adding a build limit.  The boat was fixed by giving the hunters dolphins grace when the hunted was in a boat.  The digging was fixed by adding a pickaxe that when held by a hunter, broke 5 blocks in a line, but when held by the hunted, only broke 3.  This allowed people to catch up to the hunted.  The hiding issue was fixed by just adding an arrow in the action bar that pointed to the hunted, and by giving the hunted a glowing effect.  
 
