@@ -14,6 +14,8 @@
 - [The raycasting system for the chains](https://www.youtube.com/watch?v=FSmu1QiiboE&list=PLVFTw2thtjTwW79kvSui_OwEj462-RToS&index=5)  
 I also made the original prototype for the moving platforms, but MarvelousAny did most of this part.
 
+- Collecting bug reports, fixing bugs, and helping moderate the game
+
 **Stats**
 
 - Over 100k views after streams ended.
