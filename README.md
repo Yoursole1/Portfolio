@@ -34,3 +34,5 @@ I also made the original prototype for the moving platforms, but MarvelousAny di
 - Over 400k live viewers
 - Over 5 million hours of watchtime live
 - 100k prize pool
+
+This event did create some controversy because of logistical issues when it went live, but this was because of internal issues with the broadcasting team sadly.  The minigames themselves went smoothly.
