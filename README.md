@@ -7,3 +7,8 @@
 [jakenbakelive](https://www.twitch.tv/videos/1609507291)  
 [goncho](https://www.twitch.tv/videos/1609508310)  
 
+**My Role**
+
+- The NPC System
+- The PVE fights and games
+- The raycasting system for the chains
