@@ -76,4 +76,4 @@ The idea for this project was to make a simple to learn, but relatively advanced
 ## Other Projects
 
 Make sure to check out my pinned repositories [here](https://github.com/Yoursole1)!  These are demonstrations of independent work I have done. 
-<p>Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>.</p>
+
