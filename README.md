@@ -19,6 +19,12 @@ I also made the original prototype for the moving platforms, but MarvelousAny di
 - Over 100k views after streams ended.
 - All streamers doing this event were put on the front page of Twitch
 
+**Skills Learned**
+
+- Custom pathfinding
+- Lots of linear algebra practice for the raycasting and the magic zombies
+- Practice with NMS relating to the EntityPlayer
+- So much practice working with the build team to make sure the maps and the games were in sync
 
 ## Twitch Rivals 2022 Minecraft Section
 
@@ -35,6 +41,9 @@ I also made the original prototype for the moving platforms, but MarvelousAny di
 - Over 5 million hours of watchtime live
 - 100k prize pool
 
+**Skills Learned**
+
+- Working under loads of time pressure (we had 3 weeks)
 
 ## PyNetwork
 
@@ -48,6 +57,10 @@ I also made the original prototype for the moving platforms, but MarvelousAny di
 
 This project was an experiment I conducted into genetic algorithms for the sake of learning.  I created the neural network from the ground up, and built the genetic algorithm myself as well.  The goal was to teach little square creatures to hunt food and pathfind, which was a huge success!  There is **way** more info in the readme for the repository.
 
+**Skills Learned**
+
+- Genetic learning (the basics)
+
 ## RoverLink 
 
 [Repository](https://github.com/Yoursole1/RoverLink)
@@ -55,6 +68,10 @@ This project was an experiment I conducted into genetic algorithms for the sake 
 **About this project**
 
 The idea for this project was to make a simple to learn, but relatively advanced robotics project for underfunded schools to download and use.  The code consists of a server, which the rover runs, and a library to control the rover remotely over a local network.  This project isn't a good demonstration of good server code, because this was my first experiment into coding my own server.  
+
+**Skills Learned**
+
+- Robotic Control and how to make a 100% custom rover
 
 ## Other Projects
 
