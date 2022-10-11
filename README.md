@@ -10,7 +10,7 @@
 **My Role**
 
 - The NPC System (This one is all over all of the streams)
-- [The PVE fights and games](https://www.twitch.tv/videos/1609507291) (1:07:30)
+- [The PVE fights and games](https://www.twitch.tv/videos/1609507291) (1:07:30 is one example)
 - [The raycasting system for the chains](https://www.youtube.com/watch?v=FSmu1QiiboE&list=PLVFTw2thtjTwW79kvSui_OwEj462-RToS&index=5)  
 I also made the original prototype for the moving platforms, but MarvelousAny did most of this part.
 
@@ -35,4 +35,27 @@ I also made the original prototype for the moving platforms, but MarvelousAny di
 - Over 5 million hours of watchtime live
 - 100k prize pool
 
-This event did create some controversy because of logistical issues when it went live, but this was because of internal issues with the broadcasting team sadly.  The minigames themselves went smoothly.
+
+## PyNetwork
+
+[Repository](https://github.com/Yoursole1/PyNetwork)
+
+**My Role**
+
+- Everything!  
+
+**About this project**
+
+This project was an experiment I conducted into genetic algorithms for the sake of learning.  I created the neural network from the ground up, and built the genetic algorithm myself as well.  The goal was to teach little square creatures to hunt food and pathfind, which was a huge success!  There is **way** more info in the readme for the repository.
+
+## RoverLink 
+
+[Repository](https://github.com/Yoursole1/RoverLink)
+
+**About this project**
+
+The idea for this project was to make a simple to learn, but relatively advanced robotics project for underfunded schools to download and use.  The code consists of a server, which the rover runs, and a library to control the rover remotely over a local network.  This project isn't a good demonstration of good server code, because this was my first experiment into coding my own server.  
+
+## Other Projects
+
+Make sure to check out my pinned repositories [here](https://github.com/Yoursole1)!  These are demonstrations of independent work I have done. 
