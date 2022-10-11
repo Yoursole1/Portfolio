@@ -15,7 +15,22 @@
 I also made the original prototype for the moving platforms, but MarvelousAny did most of this part.
 
 **Stats**
+
 - Over 100k views after streams ended.
 - All streamers doing this event were put on the front page of Twitch
 
 
+## Twitch Rivals 2022 Minecraft Section
+
+[Trailer](https://twitter.com/twitchrivals/status/1548675688705794050?lang=en)
+
+**My Role**
+
+- Parkour System for all parkour minigames
+- NPC System (same one from the other event)
+
+**Stats**
+
+- Over 400k live viewers
+- Over 5 million hours of watchtime live
+- 100k prize pool
