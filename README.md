@@ -18,7 +18,7 @@ I also made the original prototype for the moving platforms, but MarvelousAny di
 
 **Stats**
 
-- Over 100k views after streams ended.
+- Over 100k views after streams ended and about 10-15k live viewers
 - All streamers doing this event were put on the front page of Twitch
 
 **Skills Learned**
