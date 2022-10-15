@@ -1,5 +1,5 @@
 ## Socials
-[Twitter](https://twitter.com/Yoursole3)
+[Twitter](https://twitter.com/Yoursole3)  
 [Hypixel Account](https://hypixel.net/player/8c13f015b6fa47529f8b02629addbf98)
 
 ## Twitch Lord of the Rings Experience Event
