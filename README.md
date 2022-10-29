@@ -2,6 +2,20 @@
 [Twitter](https://twitter.com/Yoursole3)  
 [Hypixel Account](https://hypixel.net/player/8c13f015b6fa47529f8b02629addbf98)
 
+##Entity Utils
+
+I have been working on this project for a while through various games, and recently I open sourced it because I feel like it is getting to a point where it could be useful for regular projects.  Entity Utils **is a work in progress**, and is always being updated.  
+
+**Features**
+
+- Custom Player NPC implementation
+- A* pathfinder that be used for more than just NPCs
+- Framework for implementing more custom entity types easily
+- Dialog system (used in the Lord of the Rings project below)
+
+- Future features include more NPC models, more entity utility features, and a navagation mesh to optimize A*
+- It might take a while to add these since everything is being implemented from NMS because Bukkit/Spigot entities are not amazing
+
 ## Twitch Lord of the Rings Experience Event
 
 **Videos from this event**
