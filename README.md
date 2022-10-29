@@ -2,7 +2,7 @@
 [Twitter](https://twitter.com/Yoursole3)  
 [Hypixel Account](https://hypixel.net/player/8c13f015b6fa47529f8b02629addbf98)
 
-##Entity Utils
+## Entity Utils
 
 I have been working on this project for a while through various games, and recently I open sourced it because I feel like it is getting to a point where it could be useful for regular projects.  Entity Utils **is a work in progress**, and is always being updated.  
 
